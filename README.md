@@ -12,3 +12,5 @@ This is a simple implementation of proximity hover effect that animates based on
 
 ### Keep looking for more cute puss-eyesss
 * I know you got zero B*tches in your life and hence no pussies ,so i'm here  for your rescue....
+
+> THIS WILL IMPROVE IN FUTURE
